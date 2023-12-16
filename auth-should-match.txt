@@ -1,0 +1,5 @@
+Nov  5 00:01:32 scc-it120 sshd[108001]: 
+Failed password for root from 188.18.49.50 port 36949 ssh2
+
+Nov  5 01:27:31 scc-it120 sshd[108656]: 
+Failed password for root from 143.92.58.10 port 35124 ssh2

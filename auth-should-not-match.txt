@@ -1,0 +1,5 @@
+Nov  5 00:02:27 scc-it120 sshd[108009]: Disconnected from 
+authenticating user root 218.92.0.112 port 59767 [preauth]
+
+Nov  5 00:05:58 scc-it120 sshd[108043]: 
+Invalid user admin from 185.11.61.234 port 52136

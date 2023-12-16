@@ -1,0 +1,5 @@
+commit 64c64365e444b5a92882665d6515db2216236519 (HEAD -> main, tag: decode-base, proto/main, origin/main)
+Author: Kit Transue <noreply>
+Date:   Thu Oct 12 13:48:43 2023 -0700
+
+    Start to decode binary files
